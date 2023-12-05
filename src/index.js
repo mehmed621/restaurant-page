@@ -1,7 +1,6 @@
 import home from "./home"
 import about from "./about"
 import contact from "./contact"
-import './style.css';
 
 const contentElement = document.querySelector("#content")
 

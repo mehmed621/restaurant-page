@@ -1,4 +1,3 @@
-import './style.css';
 export default function createHomepage() {
   let mainElement = document.createElement("main");
   mainElement.setAttribute("id", "home-main");
