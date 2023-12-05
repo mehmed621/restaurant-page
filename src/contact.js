@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function createContactPage() {
   let contactMainElement = document.createElement("main");
   contactMainElement.setAttribute("id", "contact-main");

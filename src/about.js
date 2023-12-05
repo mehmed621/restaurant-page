@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function createAboutPage() {
   let aboutMainElement = document.createElement("main");
   aboutMainElement.setAttribute("id", "about-main");
